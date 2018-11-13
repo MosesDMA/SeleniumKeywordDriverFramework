@@ -1,0 +1,8 @@
+# home page
+loginLink=.//*[@id='u1']/a[7]
+
+# login page
+loginTypeByAccount=.//*[@id='TANGRAM__PSP_10__footerULoginBtn']
+loginUsernameInputbox=.//*[@id='TANGRAM__PSP_10__userName']
+loginPasswordInputbox=.//*[@id='TANGRAM__PSP_10__password']
+loginSubmitBtn=.//*[@id='TANGRAM__PSP_10__submit']
